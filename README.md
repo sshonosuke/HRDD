@@ -7,7 +7,7 @@ Sugasawa, S., Ishihara, T. and Kurisu, D. (2023). Hierarchical regression discon
 The repository includes the following files.
 
 - `HRDD-Continuous.R` : Implementation of HRDD under continuous response (quadratic loss)  
-- `HRDD-Binary.R` : Implementation of HRDD under binary response (ngative logistic log-likelihood loss)  
+- `HRDD-Binary.R` : Implementation of HRDD under binary response (negative logistic log-likelihood loss)  
 - `Sim-oneshot-continuous.R`: One-shot simulation study with continuous response
 - `Sim-oneshot-binary.R`: One-shot simulation study with binary response
 - `Dataset.RData`: Columbia scholarship data 
